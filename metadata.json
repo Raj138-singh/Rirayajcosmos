@@ -1,0 +1,6 @@
+{
+  "name": "Rirayajcosmos",
+  "description": "Watch the biggest movies anytime, anywhere. Unlimited streaming of action, comedy, drama, horror, sci-fi, and more.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
